@@ -15,7 +15,7 @@ inputTarefa.addEventListener("keypress", function(e){
 });
 
 function limpaInput(){
-    inputTarefa.value = " ";
+    inputTarefa.value = "";
     inputTarefa.focus();
 }
 
